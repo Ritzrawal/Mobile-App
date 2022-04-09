@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "i18next": "^14.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.7.0",
     "react": "16.6.3",
     "react-i18next": "^9.0.7",
